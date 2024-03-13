@@ -49,7 +49,12 @@ Stretch Task
   **6** Cloning the 1st collaborator verify
   ![cloning](9.png)
 
-  **5** editing the fil
+  **7** editing the fil
   ![cloning](8.png)
 
+   **8** editing the fil
+  ![cloning](13.png)
+  ![cloning](14.png)
+  ![cloning](15.png)
+ 
   
