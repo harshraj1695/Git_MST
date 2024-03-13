@@ -43,4 +43,13 @@ Stretch Task
 
   ![cloning](8.png)
 
+  **5** Git log to verify
+  ![cloning](12.png)
+
+  **6** Cloning the 1st collaborator verify
+  ![cloning](9.png)
+
+  **5** editing the fil
+  ![cloning](8.png)
+
   
