@@ -56,5 +56,9 @@ Stretch Task
   ![cloning](13.png)
   ![cloning](14.png)
   ![cloning](15.png)
+
+  ![diet](https://github.com/harshraj1695/Git_MST/blob/main/WhatsApp%20Image%202024-03-13%20at%2011.06.03_351f999c.jpg)
+
+  ![dieye](https://github.com/harshraj1695/Git_MST/blob/main/WhatsApp%20Image%202024-03-13%20at%2011.06.03_397f8990.jpg)
  
   
