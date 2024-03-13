@@ -30,10 +30,12 @@ Stretch Task
 
   ![remote add](4.png)
   
-    ![file](2.png)
+  ![file](2.png)
 
-    ![pushing](5.png)
+  ![pushing](5.png)
 
-    **3** Go to github and add collaboraters
+   **3** Go to github and add collaboraters
 
-        ![pushing](6.png)
+  ![pushing](6.png)
+
+  **4** Git clone "url"
