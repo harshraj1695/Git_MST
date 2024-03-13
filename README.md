@@ -21,12 +21,12 @@ Stretch Task
 
    ## Solutions of the problem statement
 
-  Go to Github account-> Go to repository -> Create New repository -> Name"Git_MST" -> select it as public-> none in git ignore -> "GNU public " in lisene -> Create repository.
+  Go to GitHub account-> Go to repository -> Create New repository -> Name"Git_MST" -> select it as public-> none in git ignore -> "GNU public " in line -> Create repository.
   
  **1** Go to Github account-> Go to repository -> Create New repository -> Name"Git_MST" -> select it as public-> none in git ignore -> "GNU public " in lisene -> Create repository.
   ![repogorm](1.png)
 
-  **2** For adding remote into the git use command "_git remote add origin url_" ad eddit the file "vi abc.txt" and commit using"git commit -m "message""
+  **2** For adding remote into the git use the command "_git remote add origin url_" ad edit the file "vi abc.txt" and commit using"git commit -m "message""
 
   ![remote add](4.png)
   
@@ -34,8 +34,13 @@ Stretch Task
 
   ![pushing](5.png)
 
-   **3** Go to github and add collaboraters
+   **3** Go to GitHub and add collaborators
 
   ![pushing](6.png)
 
-  **4** Git clone "url"
+  **4** Git clone "URL" and editing files
+  ![cloning](9.png)
+
+  ![cloning](8.png)
+
+  
